@@ -10,5 +10,5 @@ I'm José Vitor, a Civil Engineer and Financial Advisor from Brazil.
 
 ## ⚡ Learning
 
-* **CS50x:** Scratch, C, Java, SQL, Python...
+* **CS50x:** C, Java, SQL, Python...
 * **Python Programming MOOC 2024:** A big tutorial of Python
