@@ -1,7 +1,7 @@
 # 👋 Hello!
 
 I'm José Vitor, a Civil Engineer and Financial Advisor from Brazil. 
-- I am starting in technology.
+- I am starting at technology.
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvtaborda/)
